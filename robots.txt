@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmetalkan.github.io/vasectomy-planning-and-recovery-brief/sitemap.xml
